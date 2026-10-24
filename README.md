@@ -1,71 +1,115 @@
-<h1 align="center">Hey 👋, I'm Abdullah or Nmsh</h1>
-<h3 align="center">💻 FiveM Developer | Content Creator | 🇰🇼 Kuwait</h3>
+<!--
+NMSH / GitHub Profile
+Designed for github.com/nm1-Dev
+Visuals live in ./assets and adapt to light and dark GitHub themes.
+-->
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nm1-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+    <img src="./assets/hero-dark.svg" width="100%" alt="NMSH, Abdullah. Developer, creative builder and content creator. I design, code and ship experiences." />
+  </picture>
 
----
+  <br />
 
-### 🧠 About Me
+  <a href="https://github.com/nm1-Dev?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/EXPLORE_PROJECTS-101C2A?style=for-the-badge&logo=github&logoColor=52F4C3" /></a>
+  <a href="https://www.youtube.com/@itznmsh"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-101C2A?style=for-the-badge&logo=youtube&logoColor=FF606C" /></a>
+  <a href="https://kick.com/nmsh"><img alt="Kick" src="https://img.shields.io/badge/KICK-101C2A?style=for-the-badge&logo=kick&logoColor=53FC18" /></a>
+  <a href="mailto:itz.nmsh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/GET_IN_TOUCH-101C2A?style=for-the-badge&logo=gmail&logoColor=52F4C3" /></a>
+</div>
 
-I'm **Abdullah**, a 19-year-old developer from **Kuwait**, focused on creating high-quality **FiveM scripts** and managing my brand **Liquid Developments**.  
-I’m passionate about combining **design, performance, and innovation** to build experiences that make servers stand out.
+<br />
 
-- 🔭 Currently working on: `Nmsh Developments` (FiveM Scripts Store)  and `No Limit RP`
-- 🌱 Learning more about: `Lua`, `JavaScript`, and `UI/UX`  
+## About
 
----
+I’m **Abdullah**, also known as **Nmsh**. I build things at the intersection of **engineering, design, and interactive experiences**.
 
-### 🛠️ Tech Stack
+My roots are in **FiveM development**. Today, I’m also exploring full-stack products, real-time web experiences, and creator tools. I care about the details that people *feel*: speed, clarity, responsive interfaces, and a product that works beyond the demo.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FiveM-FF6C37?style=for-the-badge&logo=rockstar-games&logoColor=white"/>
-</p>
+> **My approach:** keep the experience simple, the engineering deliberate, and the details sharp.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+## What I'm building
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Real-time experiences</h3>
+      <p>Multiplayer interactions, social gameplay, and stateful systems where responsiveness matters.</p>
+      <p><code>TypeScript</code> <code>JavaScript</code> <code>Cloudflare</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Web products</h3>
+      <p>Arabic-first interfaces, thoughtful reading experiences, and usable tools for actual people.</p>
+      <p><code>Next.js</code> <code>React</code> <code>CSS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / Game development</h3>
+      <p>From FiveM scripting and server features to browser-based game prototypes.</p>
+      <p><code>Lua</code> <code>JavaScript</code> <code>Game logic</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / Creator workflows</h3>
+      <p>Tools and workflows around recording, editing, and shipping digital content.</p>
+      <p><code>DaVinci Resolve</code> <code>OBS</code> <code>Automation</code></p>
+    </td>
+  </tr>
+</table>
 
-### 📊 GitHub Stats
+## Selected work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nm1-Dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-</p>
+| Project | Focus | Stage |
+| :--- | :--- | :--- |
+| **MASHBOOH** | An online social deduction game with multiplayer rooms and game logic. | In development |
+| **Marwa** | An Arabic-first Quran reading experience, with audio and tafsir. | In development |
+| **ATHAR** | A browser-based strategy card game. | Playable prototype |
+| **Liquid Developments** | FiveM systems and custom gameplay experiences. | Previous / ongoing work |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm1-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
+<sub>Some projects are still private or in progress. I prefer showing working builds over inventing impressive numbers.</sub>
 
----
+## Toolkit
 
-### 🏆 GitHub Trophies
+**Languages**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nm1-Dev&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-183B59?style=flat-square&logo=typescript&logoColor=5DA9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-183B59?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Lua](https://img.shields.io/badge/Lua-183B59?style=flat-square&logo=lua&logoColor=B09BFF)
+![HTML5](https://img.shields.io/badge/HTML5-183B59?style=flat-square&logo=html5&logoColor=FF9878)
+![CSS3](https://img.shields.io/badge/CSS3-183B59?style=flat-square&logo=css3&logoColor=7BC6FF)
 
----
+**Frameworks & infrastructure**
 
-### 🌐 Connect With Me
+![Next.js](https://img.shields.io/badge/Next.js-183B59?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-183B59?style=flat-square&logo=react&logoColor=61DAFB)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-183B59?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Git](https://img.shields.io/badge/Git-183B59?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-183B59?style=flat-square&logo=github&logoColor=white)
 
-<p align="center">
-  <a href="https://discord.gg/xkZ7GR5ge6" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:itz.nmsh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nm1-Dev">
-    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Tools I work with**
 
----
+![VS Code](https://img.shields.io/badge/VS_Code-183B59?style=flat-square&logo=visualstudiocode&logoColor=29A8FF)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-183B59?style=flat-square&logo=davinciresolve&logoColor=white)
+![OBS](https://img.shields.io/badge/OBS_Studio-183B59?style=flat-square&logo=obsstudio&logoColor=white)
+
+## Activity
+
+Instead of depending on a third-party stats image that may stop working, my actual repositories, contributions, and pinned projects are available directly on [my GitHub profile](https://github.com/nm1-Dev). The work is the proof.
+
+## Find me online
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><strong>Code & collaboration</strong><br /><a href="https://github.com/nm1-Dev">GitHub</a> · <a href="mailto:itz.nmsh@gmail.com">Email</a></td>
+    <td width="50%" valign="top"><strong>Videos & live content</strong><br /><a href="https://www.youtube.com/@itznmsh">YouTube</a> · <a href="https://kick.com/nmsh">Kick</a></td>
+  </tr>
+</table>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/signoff-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/signoff-light.svg" />
+    <img src="./assets/signoff-dark.svg" width="100%" alt="Made with intent. Built to last. NMSH." />
+  </picture>
+</div>
