@@ -5,14 +5,6 @@ Visuals live in ./assets and adapt to light and dark GitHub themes.
 -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-    <img src="./assets/hero-dark.svg" width="100%" alt="NMSH, Abdullah. Developer, creative builder and content creator. I design, code and ship experiences." />
-  </picture>
-
-  <br />
-
   <a href="https://github.com/nm1-Dev?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/EXPLORE_PROJECTS-101C2A?style=for-the-badge&logo=github&logoColor=52F4C3" /></a>
   <a href="https://www.youtube.com/@itznmsh"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-101C2A?style=for-the-badge&logo=youtube&logoColor=FF606C" /></a>
   <a href="https://kick.com/nmsh"><img alt="Kick" src="https://img.shields.io/badge/KICK-101C2A?style=for-the-badge&logo=kick&logoColor=53FC18" /></a>
@@ -105,11 +97,3 @@ Instead of depending on a third-party stats image that may stop working, my actu
     <td width="50%" valign="top"><strong>Videos & live content</strong><br /><a href="https://www.youtube.com/@itznmsh">YouTube</a> · <a href="https://kick.com/nmsh">Kick</a></td>
   </tr>
 </table>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/signoff-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/signoff-light.svg" />
-    <img src="./assets/signoff-dark.svg" width="100%" alt="Made with intent. Built to last. NMSH." />
-  </picture>
-</div>
